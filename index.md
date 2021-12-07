@@ -1,9 +1,10 @@
 ### Download CrashD:
 - __[Part 1](https://en.wikipedia.org/wiki/Standard_test_image)__ - Scenes of crashed cars
 - __[Part 2](https://en.wikipedia.org/wiki/Standard_test_image)__ - Scenes of clean cars
+- __[Data format description](data_format.txt)__
 
 ### Paper:
-__[3D-VField: Learning to Adversarially Deform Point Clouds for Robust 3D Object Detection](https://en.wikipedia.org/wiki/Standard_test_image)__
+__[arxiv](https://en.wikipedia.org/wiki/Standard_test_image)__
 
 ### Abstract
 
