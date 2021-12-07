@@ -4,7 +4,7 @@
 - __[Data format description](data_format.txt)__
 
 ### Paper:
-__[arxiv](https://en.wikipedia.org/wiki/Standard_test_image)__
+- __[arxiv](https://en.wikipedia.org/wiki/Standard_test_image)__
 
 ### Abstract
 
